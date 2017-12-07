@@ -1,0 +1,32 @@
+{
+  "name": "project_boilerplate",
+  "version": "0.0.1",
+  "description": "This is a boilerplate description",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "nodemon ./lib"
+  },
+  "repository": "https://github.com/eltongonc/project_boilerplate.git",
+  "author": "Elton Gonçalves Gomes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eltongonc/project_boilerplate/issues"
+  },
+  "keywords": [
+    "boilerplate",
+    "template"
+  ],
+  "homepage": "https://github.com/eltongonc/project_boilerplate#readme",
+  "dependencies": {
+    "axios": "0.17.1",
+    "body-parser": "1.18.2",
+    "express": "4.16.2",
+    "express-handlebars": "3.0.0",
+    "nodemon": "1.12.5",
+    "socket.io": "2.0.4",
+    "webpack": "3.10.0"
+  }
+}
