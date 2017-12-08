@@ -1,8 +1,12 @@
 build/
 
+./server.js
+
+webpack.config-dev.js
+
+########### GIT IGNORE COPY #############
 
 ### Node ###
-
 
 # Logs
 logs
